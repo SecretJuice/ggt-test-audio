@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="AudioResource" load_steps=3 format=3 uid="uid://ctv54atmjmclr"]
 
 [ext_resource type="AudioStream" uid="uid://b6rrcfuf01vij" path="res://assets/sounds/El Magicia.mp3" id="1_6772o"]
-[ext_resource type="Script" path="res://addons/ggt-audio/audio_resource.gd" id="2_vdcdn"]
+[ext_resource type="Script" uid="uid://dhg1efvdnhsbg" path="res://addons/ggt-audio/audio_resource.gd" id="2_vdcdn"]
 
 [resource]
 script = ExtResource("2_vdcdn")
